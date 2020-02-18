@@ -1,0 +1,5 @@
+apiVersion: v1
+description: Rack backend
+name: auto-deploy-rack-backend
+version: 0.1
+icon:
